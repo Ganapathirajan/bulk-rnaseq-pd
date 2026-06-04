@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large data files — download from GEO directly
+GSE68719/
+*.gz
+*.txt.gz
+
+# OS
+.DS_Store
+Thumbs.db
