@@ -1,4 +1,4 @@
-# Bulk RNA-seq Differential Expression Analysis — Parkinson's Disease Prefrontal Cortex
+# Bulk RNA-seq Differential Expression Analysis — Parkinson's Disease Prefrontal Cortex.
 
 ![R](https://img.shields.io/badge/R-4.x-276DC3?style=flat-square&logo=r&logoColor=white)
 ![DESeq2](https://img.shields.io/badge/DESeq2-Bioconductor-brightgreen?style=flat-square)
@@ -167,8 +167,8 @@ BiocManager::install(c("GEOquery", "DESeq2", "clusterProfiler", "org.Hs.eg.db"))
 
 ## Author
 
-**Ganapathirajan P**
-MSc Bioinformatics & Data Science — Sathyabama Institute of Science and Technology
+**GANAPATHIRAJAN P**
+MSc Bioinformatics & Data Science — Sathyabama Institute of Science and Technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grp1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ganapathirajan)
