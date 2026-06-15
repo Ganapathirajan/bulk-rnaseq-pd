@@ -168,6 +168,7 @@ BiocManager::install(c("GEOquery", "DESeq2", "clusterProfiler", "org.Hs.eg.db"))
 ## Author
 
 **GANAPATHIRAJAN P**
+
 MSc Bioinformatics & Data Science — Sathyabama Institute of Science and Technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grp1)
